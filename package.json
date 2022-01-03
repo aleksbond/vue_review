@@ -18,5 +18,6 @@
   "homepage": "https://github.com/aleksbond/vue_review#readme",
   "dependencies": {
     "vue": "^2.6.14"
-  }
+  },
+  "devDependencies": {}
 }
