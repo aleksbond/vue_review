@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aleksbond/vue_review/issues"
   },
-  "homepage": "https://github.com/aleksbond/vue_review#readme"
+  "homepage": "https://github.com/aleksbond/vue_review#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }
